@@ -1,0 +1,11 @@
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\data.txt
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe.config
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\SoccerStats.pdb
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\obj\Debug\SoccerStats.exe
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\obj\Debug\SoccerStats.pdb
+c:\users\christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\SoccerGameResults.csv
+C:\Users\Christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\players.json
+C:\Users\Christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christopher\documents\visual studio 2017\Projects\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.xml
